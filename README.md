@@ -120,11 +120,17 @@ Base URL: http://localhost:8000
 ## Project Structure
 
 src/
+
 ├── models/
+
 │   └── planetModel.js       # Mongoose schema for planets
+
 ├── routes/
+
 │   └── planetRoute.js       # Route handlers for planet endpoints
+
 ├── connectDB.js             # MongoDB connection logic
+
 ├── server.js                # Entry point of the application
 
 
