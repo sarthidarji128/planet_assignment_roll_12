@@ -30,7 +30,7 @@ Follow these steps to set up and run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sarthidarji128/planet_assignment_roll_12.git
 
 	2.	Navigate to the project directory:
 
