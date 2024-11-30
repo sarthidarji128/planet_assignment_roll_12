@@ -115,15 +115,19 @@ Base URL: http://localhost:8000
 	•	404 Not Found: If the planet is not found
 	•	500 Internal Server Error: If an error occurs
 
-Project Structure
+
+
+## Project Structure
 
 src/
 ├── models/
-│   └── planetModel.js        # Mongoose schema for planets
+│   └── planetModel.js       # Mongoose schema for planets
 ├── routes/
-│   └── planetRoute.js        # Route handlers for planet endpoints
-├── connectDB.js              # MongoDB connection logic
-├── server.js                 # Entry point of the application
+│   └── planetRoute.js       # Route handlers for planet endpoints
+├── connectDB.js             # MongoDB connection logic
+├── server.js                # Entry point of the application
+
+
 
 Notes
 
